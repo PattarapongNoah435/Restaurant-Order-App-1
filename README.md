@@ -12,6 +12,11 @@ A responsive food ordering web application with interactive cart functionality, 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)  
 - **Deployment**: Netlify  
 
+## 🚀 Planned Improvements  
+- **Persistent Cart**: Implement `localStorage` to save cart data between sessions.  
+- **UI Animations**: Add smooth transitions for a more polished user experience.  
+- **API Integration**: Fetch menu data from a mock backend (e.g., JSON Server).  
+
 ## 🚀 How to Run Locally  
 1. Clone this repository:  
    ```bash
