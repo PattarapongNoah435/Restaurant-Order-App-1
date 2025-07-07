@@ -24,5 +24,5 @@ A responsive food ordering web application with interactive cart functionality, 
 
 2. Open index.html in your browser.
 
-🔗 Live Demo
-https://jovial-cranachan-6d3a83.netlify.app/
+## 🔗 Live Demo
+[View on Netlify](https://jovial-cranachan-6d3a83.netlify.app/)
