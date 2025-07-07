@@ -21,3 +21,8 @@ A responsive food ordering web application with interactive cart functionality, 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/restaurant-app.git
+
+2. Open index.html in your browser.
+
+🔗 Live Demo
+https://jovial-cranachan-6d3a83.netlify.app/
